@@ -1,4 +1,49 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'valvecore'
+title = 'Valve-Core'
 theme = "m10c"
+
+
+[params]
+dateFormat = "02 Jan 2006"
+description = """
+
+Im a software developer, using languages such as 
+python,rust, c,c++ and assembly. And a really mid hacker.
+
+
+"""
+
+avatar = "wolf.jpg"
+
+
+[params.style]
+darkestColor = "#d35050"
+darkColor = "#212121"
+lightColor = "#d6d6d6"
+lightestColor = "#d3d3d3"
+primaryColor = "#ffffff"
+
+[menu]
+[[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/"
+    weight = 1
+[[menu.main]]
+    identifier = "about"
+	name = "About"
+    url = "/about/"
+    weight = 2
+[[menu.main]]
+	
+	identifier = "dragon"
+    url = "/dragon/"
+    weight = 3
+
+[[params.social]]
+  icon = "github"
+  name = "My Github"
+  url = "https://github.com/valvecore"
+
+
