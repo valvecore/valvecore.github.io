@@ -13,7 +13,10 @@ date = 2023-10-20
 
 {{<rawhtml>}}
 <h3>Game: Rage Golf</h3>
+<a href="https://gamejolt.com/games/rage-golf/31842">Link to the game</a>
 {{</rawhtml>}}
+
+
 
 The first thing you will need to do is download rage golf, and since there is a space in the exe name you will need to rename the exe so that there isnt a space in there.
 
