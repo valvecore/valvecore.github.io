@@ -6,14 +6,14 @@ date = 2023-10-20
 
 {{<rawhtml>}}
 <h1>Tutorial for whiskey alpha(First Release)</h1>
-
+<a href="https://github.com/valvecore/whiskey_alpha">Goto whiskey alpha github page</a>
 <FONT COLOR="#ff0000">Whiskey is still in very early development, there will be several bugs.</FONT>
 {{</rawhtml>}}
 
 
 {{<rawhtml>}}
 <h3>Game: Rage Golf</h3>
-<a href="https://gamejolt.com/games/rage-golf/31842">Link to the game</a>
+<a href="https://gamejolt.com/games/rage-golf/31842">Goto rage golf gamejolt page</a>
 {{</rawhtml>}}
 
 
