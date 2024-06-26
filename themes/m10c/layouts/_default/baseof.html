@@ -1,6 +1,7 @@
 <!doctype html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
   <head>
+    {{ partial "google/analytics" . }}
     <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} // {{ .Site.Title }}{{ end }}</title>
     <link rel="shortcut icon" href="{{ .Site.Params.favicon | default "/favicon.ico" }}" />
     <meta charset="utf-8" />
