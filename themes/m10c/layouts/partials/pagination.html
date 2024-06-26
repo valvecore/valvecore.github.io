@@ -1,5 +1,6 @@
 {{ with $.Paginator }}
 {{ if gt .TotalPages 1 }}
+{{ partial "google/analytics" . }}
 <ul class="pagination">
   {{ with .Prev }}
   <li class="page-item">
